@@ -223,12 +223,14 @@ NidoranMEvosMoves:
 	db EV_LEVEL, 26, NIDORINO
 	db 0
 ; Learnset
-	db 8, HORN_ATTACK
-	db 14, POISON_STING
-	db 21, FOCUS_ENERGY
-	db 29, FURY_ATTACK
-	db 36, HORN_DRILL
-	db 43, DOUBLE_KICK
+	db 9, SAND_ATTACK
+	db 11, TACKLE
+	db 13, LEER
+;	db 15, MOVE53
+	db 17, BITE
+	db 19, GROWL
+	db 21, THRASH
+	db 23, POISON_STING
 	db 0
 
 ClefairyEvosMoves:
@@ -236,12 +238,23 @@ ClefairyEvosMoves:
 	db EV_ITEM, MOON_STONE, 1, CLEFABLE
 	db 0
 ; Learnset
-	db 13, SING
-	db 18, DOUBLESLAP
-	db 24, MINIMIZE
-	db 31, METRONOME
-	db 39, DEFENSE_CURL
-	db 48, LIGHT_SCREEN
+	db 8, SAND_ATTACK
+	db 10, TAKE_DOWN
+;	db 12, MOVE53
+	db 14, LEER
+;	db 16, MOVE50
+	db 18, GROWL
+;	db 20, MOVE65
+;	db 22, MOVE66
+	db 24, SING
+	db 26, DEFENSE_CURL
+	db 28, SUBMISSION
+	db 30, LOW_KICK
+	db 32, METRONOME
+	db 34, FOCUS_ENERGY
+	db 36, DOUBLESLAP
+;	db 38, MOVE116
+;	db 40, MOVE226
 	db 0
 
 SpearowEvosMoves:
@@ -249,11 +262,19 @@ SpearowEvosMoves:
 	db EV_LEVEL, 35, FEAROW
 	db 0
 ; Learnset
-	db 9, LEER
-	db 15, FURY_ATTACK
-	db 22, MIRROR_MOVE
-	db 29, DRILL_PECK
-	db 36, AGILITY
+	db 10, SCRATCH
+	db 12, SAND_ATTACK
+	db 14, WING_ATTACK
+	db 16, TACKLE
+	db 18, FURY_ATTACK
+	db 20, LEER
+	db 22, GROWL
+;	db 24, MOVE65
+;	db 26, MOVE66
+	db 28, TAKE_DOWN
+	db 30, DRILL_PECK
+	db 32, WHIRLWIND
+	db 34, FLY
 	db 0
 
 VoltorbEvosMoves:
@@ -271,9 +292,9 @@ NidokingEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 8, HORN_ATTACK
-	db 14, POISON_STING
-	db 23, THRASH
+	db 45, MEGA_PUNCH
+	db 50, MEGA_KICK
+	db 55, DOUBLE_EDGE
 	db 0
 
 SlowbroEvosMoves:
@@ -360,12 +381,14 @@ NidoranFEvosMoves:
 	db EV_LEVEL, 26, NIDORINA
 	db 0
 ; Learnset
-	db 8, SCRATCH
-	db 14, POISON_STING
-	db 21, TAIL_WHIP
-	db 29, BITE
-	db 36, FURY_SWIPES
-	db 43, DOUBLE_KICK
+	db 9, SAND_ATTACK
+	db 11, TACKLE
+	db 13, LEER
+;	db 15, MOVE53
+	db 17, BITE
+	db 19, GROWL
+	db 21, TAKE_DOWN
+	db 23, POISON_STING
 	db 0
 
 NidoqueenEvosMoves:
@@ -567,11 +590,8 @@ FearowEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 9, LEER
-	db 15, FURY_ATTACK
-	db 25, MIRROR_MOVE
-	db 34, DRILL_PECK
-	db 43, AGILITY
+	db 38, SONICBOOM
+	db 41, RAGE
 	db 0
 
 PidgeyEvosMoves:
@@ -689,11 +709,12 @@ ArbokEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 10, POISON_STING
-	db 17, BITE
-	db 27, GLARE
-	db 36, SCREECH
-	db 47, ACID
+;	db 27, LUNGE
+;	db 30, MOVE50
+	db 33, ACID
+	db 36, GLARE
+	db 39, TOXIC
+;	db 42, MOVE84
 	db 0
 
 ParasectEvosMoves:
@@ -1040,11 +1061,6 @@ VulpixEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 16, QUICK_ATTACK
-	db 21, ROAR
-	db 28, CONFUSE_RAY
-	db 35, FLAMETHROWER
-	db 42, FIRE_SPIN
 	db 0
 
 NinetalesEvosMoves:
@@ -1058,17 +1074,22 @@ PikachuEvosMoves:
 	db EV_LEVEL, 23, RAICHU
 	db 0
 ; Learnset
-	db 9, THUNDER_WAVE
-	db 16, QUICK_ATTACK
-	db 26, SWIFT
-	db 33, AGILITY
-	db 43, THUNDER
+	db 14, TAIL_WHIP
+	db 16, THUNDERSHOCK
+	db 18, SAND_ATTACK
+	db 20, THUNDERSHOCK
+	db 22, FOCUS_ENERGY
 	db 0
 
 RaichuEvosMoves:
 ; Evolutions
 	db EV_LEVEL, 40, GOROCHU
 ; Learnset
+	db 25, THUNDERBOLT
+	db 28, LEER
+	db 31, THUNDER_WAVE
+	db 34, HORN_DRILL
+;	db 37, MOVE124
 	db 0
 
 MissingNo56EvosMoves:
@@ -1165,22 +1186,12 @@ SandshrewEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 10, SAND_ATTACK
-	db 17, SLASH
-	db 24, POISON_STING
-	db 31, SWIFT
-	db 38, FURY_SWIPES
 	db 0
 
 SandslashEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 10, SAND_ATTACK
-	db 17, SLASH
-	db 27, POISON_STING
-	db 36, SWIFT
-	db 47, FURY_SWIPES
 	db 0
 
 OmanyteEvosMoves:
@@ -1208,19 +1219,24 @@ JigglypuffEvosMoves:
 	db EV_LEVEL, 30, WIGGLYTUFF
 	db 0
 ; Learnset
-	db 9, POUND
-	db 14, DISABLE
-	db 19, DEFENSE_CURL
-	db 24, DOUBLESLAP
-	db 29, REST
-	db 34, BODY_SLAM
-	db 39, DOUBLE_EDGE
+	db 14, THRASH
+	db 16, SING
+;	db 18, MOVE50
+	db 20, SAND_ATTACK
+	db 22, MINIMIZE
+	db 24, SING
+;	db 26, MOVE116
 	db 0
 
 WigglytuffEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
+	db 33, TAKE_DOWN
+	db 36, COUNTER
+	db 39, CONFUSE_RAY
+	db 42, BIDE
+	db 45, SUPERSONIC
 	db 0
 
 EeveeEvosMoves:
@@ -1307,11 +1323,11 @@ EkansEvosMoves:
 	db EV_LEVEL, 26, ARBOK
 	db 0
 ; Learnset
-	db 10, POISON_STING
-	db 17, BITE
-	db 24, GLARE
-	db 31, SCREECH
-	db 38, ACID
+	db 12, TAIL_WHIP
+	db 15, HEADBUTT
+	db 18, SUPERSONIC
+	db 21, THRASH
+;	db 25, MOVE223
 	db 0
 
 ParasEvosMoves:
@@ -1629,6 +1645,7 @@ ClefableEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
+;	db 40, LUNGE
 	db 0
 
 WeezingEvosMoves:
@@ -1873,12 +1890,12 @@ NidorinoEvosMoves:
 	db EV_LEVEL, 40, NIDOKING
 	db 0
 ; Learnset
-	db 8, HORN_ATTACK
-	db 14, POISON_STING
-	db 23, FOCUS_ENERGY
-	db 32, FURY_ATTACK
-	db 41, HORN_DRILL
-	db 50, DOUBLE_KICK
+	db 28, HORN_ATTACK
+	db 30, ROAR
+	db 32, SLASH
+	db 34, FURY_ATTACK
+	db 36, GLARE
+	db 38, HORN_DRILL
 	db 0
 
 NidorinaEvosMoves:
@@ -1886,12 +1903,9 @@ NidorinaEvosMoves:
 	db EV_LEVEL, 40, NIDOQUEEN
 	db 0
 ; Learnset
-	db 8, SCRATCH
-	db 14, POISON_STING
-	db 23, TAIL_WHIP
-	db 32, BITE
-	db 41, FURY_SWIPES
-	db 50, DOUBLE_KICK
+	db 45, MEGA_PUNCH
+	db 50, MEGA_KICK
+	db 55, DOUBLE_EDGE
 	db 0
 
 GeodudeEvosMoves:
