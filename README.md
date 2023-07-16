@@ -1,3 +1,6 @@
+# Modification Notes
+Hi, MDTravis here. This'll be my third attempt of making a version of Pokemon Red & Blue with the prototype stats!!! Hope I don't give up this time!!
+
 # Pokémon Red and Blue [![Build Status][ci-badge]][ci]
 
 This is a disassembly of Pokémon Red and Blue.
