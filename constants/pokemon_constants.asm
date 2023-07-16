@@ -86,7 +86,7 @@
 	const MEOWTH             ; $4D
 	const KRABBY             ; $4E
 	const_skip               ; $4F
-	const_skip               ; $50
+	const P080               ; $50
 	const_skip               ; $51
 	const VULPIX             ; $52
 	const NINETALES          ; $53
@@ -133,7 +133,7 @@
 	const METAPOD            ; $7C
 	const BUTTERFREE         ; $7D
 	const MACHAMP            ; $7E
-	const_skip               ; $7F
+	const P127               ; $7F
 	const GOLDUCK            ; $80
 	const HYPNO              ; $81
 	const GOLBAT             ; $82
@@ -181,13 +181,13 @@
 	const_skip               ; $AC
 	const MAGNEMITE          ; $AD
 	const_skip               ; $AE
-	const_skip               ; $AF
+	const GOROCHU            ; $AF
 	const CHARMANDER         ; $B0
 	const SQUIRTLE           ; $B1
 	const CHARMELEON         ; $B2
 	const WARTORTLE          ; $B3
 	const CHARIZARD          ; $B4
-	const_skip               ; $B5
+	const P181               ; $B5
 	const FOSSIL_KABUTOPS    ; $B6
 	const FOSSIL_AERODACTYL  ; $B7
 	const MON_GHOST          ; $B8
