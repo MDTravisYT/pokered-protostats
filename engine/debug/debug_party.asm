@@ -18,17 +18,11 @@ DebugNewGameParty: ; unreferenced except in _DEBUG
 	; always using this character while I was debugging the program."
 	; From https://web.archive.org/web/20000607152840/http://pocket.ign.com/news/14973.html
 	db EXEGGUTOR, 90
-IF DEF(_DEBUG)
 	db MEW, 5
-ELSE
-	db MEW, 20
-ENDC
 	db JOLTEON, 56
-	db DUGTRIO, 56
-	db ARTICUNO, 57
-IF DEF(_DEBUG)
-	db PIKACHU, 5
-ENDC
+	db CHARMANDER, 5
+	db SQUIRTLE, 5
+	db BULBASAUR, 5
 	db -1 ; end
 
 PrepareNewGameDebug: ; dummy except in _DEBUG
@@ -75,20 +69,20 @@ IF DEF(_DEBUG)
 	ld [hl], a
 
 	; Articuno gets Fly.
-	ld hl, wPartyMon5Moves
-	ld a, FLY
-	ld [hl], a
-	ld hl, wPartyMon5PP
-	ld a, 15
-	ld [hl], a
+;	ld hl, wPartyMon5Moves
+;	ld a, FLY
+;	ld [hl], a
+;	ld hl, wPartyMon5PP
+;	ld a, 15
+;	ld [hl], a
 
 	; Pikachu gets Surf.
-	ld hl, wPartyMon6Moves + 2
-	ld a, SURF
-	ld [hl], a
-	ld hl, wPartyMon6PP + 2
-	ld a, 15
-	ld [hl], a
+;	ld hl, wPartyMon6Moves + 2
+;	ld a, SURF
+;	ld [hl], a
+;	ld hl, wPartyMon6PP + 2
+;	ld a, 15
+;	ld [hl], a
 
 	; Get some debug items.
 	ld hl, wNumBagItems
