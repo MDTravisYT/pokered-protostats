@@ -181,7 +181,7 @@ MonsterNames::
 	db "WARTORTLE@"
 	db "CHARIZARD@"
 	db "MISSINGNO."
-	db "MISSINGNO."
+	db "NOPARTY@@@"
 	db "MISSINGNO."
 	db "MISSINGNO."
 	db "ODDISH@@@@"
