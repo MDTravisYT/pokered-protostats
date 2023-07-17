@@ -31,7 +31,7 @@ WildDataPointers:
 	dw Route17WildMons         ; ROUTE_17
 	dw Route18WildMons         ; ROUTE_18
 	dw SeaRoutesWildMons       ; ROUTE_19
-	dw SeaRoutesWildMons       ; ROUTE_20
+	dw SeaRoutesWildMons20       ; ROUTE_20
 	dw Route21WildMons         ; ROUTE_21
 	dw Route22WildMons         ; ROUTE_22
 	dw Route23WildMons         ; ROUTE_23
