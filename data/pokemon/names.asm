@@ -155,7 +155,7 @@ MonsterNames::
 	db "BULBASAUR@"
 	db "VENUSAUR@@"
 	db "TENTACRUEL"
-	db "MISSINGNO."
+	db "P156@@@@@@"
 	db "GOLDEEN@@@"
 	db "SEAKING@@@"
 	db "MISSINGNO."

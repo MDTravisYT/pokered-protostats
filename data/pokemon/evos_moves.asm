@@ -512,7 +512,7 @@ OnixEvosMoves:
 ;	db 34, MOVE154
 	db 38, GLARE
 	db 42, SCREECH
-	db 46, THUNDERWAVE
+	db 46, THUNDER_WAVE
 	db 0
 
 FearowEvosMoves:
@@ -706,7 +706,7 @@ MissingNo38EvosMoves:
 	db 14, SAND_ATTACK
 	db 16, JUMP_KICK
 	db 18, CONFUSION
-	db 20, THUNDERWAVE
+	db 20, THUNDER_WAVE
 	db 23, ROAR
 	db 26, SUPERSONIC
 	db 29, TAKE_DOWN
@@ -906,6 +906,12 @@ MissingNo50EvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
+	db 32, JUMP_KICK
+	db 34, SEISMIC_TOSS
+;	db 36, MOVE115
+;	db 48, MOVE95
+	db 40, STRENGTH
+	db 42, HYDRO_PUMP
 	db 0
 
 MissingNo51EvosMoves:
@@ -980,8 +986,8 @@ DragonairEvosMoves:
 	db 21, TAKE_DOWN
 	db 24, GLARE
 	db 27, FLY
-	db 30, MEGA_FIRE
-	db 33, AUORA_BEAM
+;	db 30, MEGA_FIRE
+	db 33, AURORA_BEAM
 	db 36, THUNDER
 	db 0
 
@@ -1294,6 +1300,12 @@ MissingNo7FEvosMoves:
 	db EV_LEVEL, 41, GOLDUCK
 	db 0
 ; Learnset
+;	db 25, LUNGE
+	db 28, SUPERSONIC
+	db 31, GLARE
+	db 34, HAZE
+	db 37, PSYBEAM
+	db 40, HYDRO_PUMP
 	db 0
 
 GolduckEvosMoves:
@@ -1520,6 +1532,10 @@ MissingNo9CEvosMoves:
 	db EV_LEVEL, 22, GOLDEEN
 	db 0
 ; Learnset
+;	db 15, MOVE53
+	db 17, SUPERSONIC
+	db 19, HORN_DRILL
+	db 21, BUBBLEBEAM
 	db 0
 
 GoldeenEvosMoves:
@@ -1532,7 +1548,7 @@ GoldeenEvosMoves:
 ;	db 31, MOVE115
 	db 34, THRASH
 	db 37, HYDRO_PUMP
-	db 40, MOVE115
+;	db 40, MOVE115
 	db 0
 
 SeakingEvosMoves:
@@ -1673,6 +1689,8 @@ MissingNoAFEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
+	db 45, FOCUS_ENERGY
+	db 50, HYPER_BEAM
 	db 0
 
 CharmanderEvosMoves:
@@ -1751,6 +1769,7 @@ MissingNoB5EvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
+	db 48, BLIZZARD
 	db 0
 
 FossilKabutopsEvosMoves:
