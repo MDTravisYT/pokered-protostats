@@ -10,10 +10,9 @@ Route25WildMons:
 	db	12, HORSEA
 	db	13, VENONAT
 	db	14, POLIWAG
-ENDC
 	end_grass_wildmons
 
-	def_water_wildmons 0 ; encounter rate
+	def_water_wildmons 15 ; encounter rate
 	db	39, POLIWAG
 	db	40, SHELLDER
 	db	40, HORSEA

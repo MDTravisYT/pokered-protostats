@@ -1,30 +1,26 @@
 PokemonMansion1FWildMons:
 	def_grass_wildmons 10 ; encounter rate
-IF DEF(_RED)
-	db 32, KOFFING
-	db 30, KOFFING
-	db 34, PONYTA
-	db 30, PONYTA
-	db 34, GROWLITHE
-	db 32, PONYTA
-	db 30, GRIMER
-	db 28, PONYTA
-	db 37, WEEZING
-	db 39, MUK
-ENDC
-IF DEF(_BLUE)
-	db 32, GRIMER
-	db 30, GRIMER
-	db 34, PONYTA
-	db 30, PONYTA
-	db 34, VULPIX
-	db 32, PONYTA
-	db 30, KOFFING
-	db 28, PONYTA
-	db 37, MUK
-	db 39, WEEZING
-ENDC
+	db	42, MUK
+	db	42, ELECTRODE
+	db	41, DUGTRIO
+	db	41, ELECTRODE
+	db	43, DUGTRIO
+	db	50, RATTATA
+	db	41, MACHOKE
+	db	44, WIGGLYTUFF
+	db	43, HYPNO
+	db	43, KADABRA
 	end_grass_wildmons
 
-	def_water_wildmons 0 ; encounter rate
+	def_water_wildmons 25 ; encounter rate
+	db	42, POLIWHIRL
+	db	42, SEADRA
+	db	41, SEADRA
+	db	41, STARYU
+	db	42, GOLDEEN
+	db	41, POLIWHIRL
+	db	41, GOLDEEN
+	db	42, POLIWHIRL
+	db	40, STARYU
+	db	42, STARYU 
 	end_water_wildmons

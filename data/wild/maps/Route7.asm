@@ -10,7 +10,6 @@ Route7WildMons:
 	db	21, MACHOP
 	db	18, VOLTORB
 	db	23, VOLTORB
-ENDC
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

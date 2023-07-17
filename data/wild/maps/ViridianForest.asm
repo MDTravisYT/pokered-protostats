@@ -1,6 +1,5 @@
 ViridianForestWildMons:
 	def_grass_wildmons 8 ; encounter rate
-IF DEF(_RED)
 	db	5, CATERPIE
 	db	5, WEEDLE
 	db	6, METAPOD

@@ -5,7 +5,7 @@ SafariZoneNorthWildMons:
 	db	25, NIDORAN_F
 	db	25, GOLDUCK
 	db	28, CLEFAIRY
-	db	27, NIDORAN♀
+	db	27, NIDORAN_F
 	db	30, MAROWAK
 	db	30, GOLDUCK
 	db	20, SCYTHER
