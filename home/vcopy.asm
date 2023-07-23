@@ -426,22 +426,22 @@ UpdateMovingBgTiles::
 	ldh [hMovingBGTilesCounter1], a
 
 	ld a, [wMovingBGTilesCounter2]
-	and 3
-	cp 2
-	ld hl, FlowerTile1
-	jr c, .copy
-	ld hl, FlowerTile2
-	jr z, .copy
-	ld hl, FlowerTile3
-.copy
-	ld de, vTileset tile $03
-	ld c, $10
-.loop
-	ld a, [hli]
-	ld [de], a
-	inc de
-	dec c
-	jr nz, .loop
+;	and 3
+;	cp 2
+;	ld hl, FlowerTile1
+;	jr c, .copy
+;	ld hl, FlowerTile2
+;	jr z, .copy
+;	ld hl, FlowerTile3
+;.copy
+;	ld de, vTileset tile $03
+;	ld c, $10
+;.loop
+;	ld a, [hli]
+;	ld [de], a
+;	inc de
+;	dec c
+;	jr nz, .loop
 	ret
 
 FlowerTile1: INCBIN "gfx/tilesets/flower/flower1.2bpp"

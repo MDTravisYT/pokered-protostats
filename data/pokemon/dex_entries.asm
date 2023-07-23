@@ -174,7 +174,7 @@ PokedexEntryPointers:
 	dw MissingNoDexEntry
 	dw MagnemiteDexEntry
 	dw MissingNoDexEntry
-	dw MissingNoDexEntry
+	dw TestDexEntry
 	dw CharmanderDexEntry
 	dw SquirtleDexEntry
 	dw CharmeleonDexEntry
@@ -196,6 +196,13 @@ PokedexEntryPointers:
 ; height in feet, inches
 ; weight in tenths of a pound
 ; text entry
+
+TestDexEntry:
+	db "TEST@"
+	db 0,0
+	dw 0000
+	text_far _TestDexEntry
+	text_end
 
 RhydonDexEntry:
 	db "DRILL@"

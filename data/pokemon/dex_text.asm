@@ -1,3 +1,12 @@
+_TestDexEntry::
+	text "A rather"
+	next "mysterious"
+	next "#MON."
+	
+	page "There is more"
+	next "to be"
+	next "discovered."
+
 _RhydonDexEntry::
 	text "Protected by an"
 	next "armor-like hide,"
