@@ -54,3 +54,9 @@ _PalletTownPlayersHouseSignText::
 _PalletTownRivalsHouseSignText::
 	text "<RIVAL>'s house "
 	done
+
+_PalletTownRouteSignText::
+	text "ROUTE 21"
+	line "PALLET TOWN -"
+	cont "CINNABAR ISLAND"
+	done

@@ -31,16 +31,15 @@ _Route1Youngster1NoRoomText::
 	done
 
 _Route1Youngster2Text::
-	text "See those ledges"
-	line "along the road?"
+	text "Using this path"
+	line "takes longer to"
+	cont "reach VIRIDIAN"
+	cont "CITY."
 
-	para "It's a bit scary,"
-	line "but you can jump"
-	cont "from them."
-
-	para "You can get back"
-	line "to PALLET TOWN"
-	cont "quicker that way."
+	para "But you won't"
+	line "have to walk"
+	cont "through tall"
+	cont "grass."
 	done
 
 _Route1SignText::
