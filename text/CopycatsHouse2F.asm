@@ -11,7 +11,7 @@ _CopycatsHouse2FCopycatDoYouLikePokemonText::
 	para "COPYCAT: Hmm?"
 	line "Quit mimicking?"
 
-	para "But, that's my"
+	para "But that's my"
 	line "favorite hobby!"
 	prompt
 

@@ -55,7 +55,7 @@ _CinnabarGymBlaineTM38ExplanationText::
 	para "TM38 contains"
 	line "FIRE BLAST!"
 
-	para "Teach it to fire-"
+	para "Teach it to fire"
 	line "type #MON!"
 
 	para "CHARMELEON or"
@@ -89,7 +89,7 @@ _CinnabarGymSuperNerd1AfterBattleText::
 	done
 
 _CinnabarGymSuperNerd2BattleText::
-	text "I was a thief, but"
+	text "I was a thief but"
 	line "I became straight"
 	cont "as a trainer!"
 	done
@@ -160,7 +160,7 @@ _CinnabarGymSuperNerd5AfterBattleText::
 
 _CinnabarGymSuperNerd6BattleText::
 	text "I've been to many"
-	line "GYMs, but this is"
+	line "GYMs but this is"
 	cont "my favorite!"
 	done
 
@@ -187,7 +187,7 @@ _CinnabarGymSuperNerd7EndBattleText::
 
 _CinnabarGymSuperNerd7AfterBattleText::
 	text "Water beats fire!"
-	line "But, fire melts"
+	line "But fire melts"
 	cont "ice #MON!"
 	done
 

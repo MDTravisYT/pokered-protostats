@@ -21,10 +21,10 @@ _FightingDojoKarateMasterIWillGiveYouAPokemonText::
 	text "Indeed, I have"
 	line "lost!"
 
-	para "But, I beseech"
-	line "you, do not take"
-	cont "our emblem as"
-	cont "your trophy!"
+	para "But I beseech you,"
+	line "do not take our"
+	cont "emblem as your"
+	cont "trophy!"
 
 	para "In return, I will"
 	line "give you a prized"

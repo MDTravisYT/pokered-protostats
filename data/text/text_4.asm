@@ -118,7 +118,7 @@ _TryingToLearnText::
 	text_ram wStringBuffer
 	text "!"
 
-	para "But, @"
+	para "But @"
 	text_ram wLearnMoveMonName
 	text_start
 	line "can't learn more"

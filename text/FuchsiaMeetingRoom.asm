@@ -17,7 +17,7 @@ _FuchsiaMeetingRoomSafariZoneWorker2::
 	done
 
 _FuchsiaMeetingRoomSafariZoneWorker3::
-	text "SLOWPOKE came in,"
+	text "SLOWPOKE came in"
 	line "but I couldn't"
 	cont "understand him."
 
