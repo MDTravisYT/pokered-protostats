@@ -81,8 +81,8 @@ _Route12SuperNerdAfterBattleText::
 	done
 
 _Route12Fisher3BattleText::
-	text "The FISHING FOOL"
-	line "vs. #MON KID!"
+	text "The fishing fool"
+	line "VS #MON kid!"
 	done
 
 _Route12Fisher3EndBattleText::
