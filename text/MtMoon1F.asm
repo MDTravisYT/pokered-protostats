@@ -26,9 +26,9 @@ _MtMoon1FYoungster1EndBattleText::
 	prompt
 
 _MtMoon1FYoungster1AfterBattleText::
-	text "I came down here"
-	line "to show off to"
-	cont "girls."
+	text "I want to show"
+	line "off to girls, so I"
+	cont "came down here."
 	done
 
 _MtMoon1FCooltrainerF1BattleText::
