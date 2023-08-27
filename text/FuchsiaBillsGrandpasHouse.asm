@@ -1,7 +1,7 @@
 _FuchsiaBillsGrandpasHouseMiddleAgedWomanText::
 	text "SAFARI ZONE's"
-	line "WARDEN is old,"
-	cont "but still active!"
+	line "WARDEN is old but"
+	cont "still active!"
 
 	para "All his teeth are"
 	line "false, though."

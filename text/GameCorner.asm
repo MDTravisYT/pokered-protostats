@@ -92,11 +92,11 @@ _GameCornerGymGuideChampInMakingText::
 
 	para "CELADON GYM's"
 	line "LEADER is ERIKA!"
-	cont "She uses grass-"
+	cont "She uses grass"
 	cont "type #MON!"
 
 	para "She might appear"
-	line "docile, but don't"
+	line "docile but don't"
 	cont "be fooled!"
 	done
 
@@ -106,7 +106,7 @@ _GameCornerGymGuideTheyOfferRarePokemonText::
 	cont "be exchanged for"
 	cont "your coins."
 
-	para "But, I just can't"
+	para "But I just can't"
 	line "seem to win!"
 	done
 

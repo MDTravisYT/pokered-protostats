@@ -27,7 +27,7 @@ _CeladonMansion3FGameDesignerText::
 	line "designer!"
 
 	para "Filling up your"
-	line "#DEX is tough,"
+	line "#DEX is tough"
 	cont "but don't quit!"
 
 	para "When you finish,"

@@ -84,6 +84,9 @@ _CeladonMartRoofLittleGirlTM49ExplanationText::
 
 	para "TM49 contains"
 	line "TRI ATTACK!@"
+	
+	para "It paralyzes the"
+	line "target sometimes!"
 	text_end
 
 _CeladonMartRoofLittleGirlNoRoomText::
@@ -102,7 +105,7 @@ _CeladonMartRoofSuperNerdText::
 	line "trainer, believe"
 	cont "it or not."
 
-	para "But, she's so"
+	para "But she's so"
 	line "immature, she"
 	cont "drives me nuts!"
 	done

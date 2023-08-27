@@ -31,8 +31,8 @@ _CeladonMart3FGameBoyKid1Text::
 	line "are registered"
 	cont "with an ID No."
 	cont "and OT, the name"
-	cont "of the Original"
-	cont "Trainer that"
+	cont "of the ORIGINAL"
+	cont "TRAINER that"
 	cont "caught it!"
 	done
 

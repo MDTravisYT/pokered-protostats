@@ -64,14 +64,14 @@ _FuchsiaGymRocker1EndBattleText::
 	prompt
 
 _FuchsiaGymRocker1AfterBattleText::
-	text "So, you mix brawn"
+	text "So you mix brawn"
 	line "with brains?"
 	cont "Good strategy!"
 	done
 
 _FuchsiaGymRocker2BattleText::
 	text "I wanted to become"
-	line "a ninja, so I"
+	line "a ninja so I"
 	cont "joined this GYM!"
 	done
 
@@ -100,7 +100,7 @@ _FuchsiaGymRocker3EndBattleText::
 
 _FuchsiaGymRocker3AfterBattleText::
 	text "I like poison and"
-	line "sleep techniques,"
+	line "sleep techniques"
 	cont "as they linger"
 	cont "after battle!"
 	done

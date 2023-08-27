@@ -2,7 +2,7 @@ _GameCornerPrizeRoomBaldingGuyText::
 	text "I sure do fancy"
 	line "that PORYGON!"
 
-	para "But, it's hard to"
+	para "But it's hard to"
 	line "win at slots!"
 	done
 
