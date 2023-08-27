@@ -68,7 +68,7 @@ _PewterGymBrockBoulderBadgeInfoText::
 
 	para "That's an official"
 	line "#MON LEAGUE"
-	cont "BADGE!"
+	cont "badge!"
 
 	para "Its bearer's"
 	line "#MON become"
@@ -109,8 +109,8 @@ _PewterGymGuidePreAdviceText::
 	cont "#MON champ!"
 
 	para "I'm no trainer,"
-	line "but I can tell"
-	cont "you how to win!"
+	line "but I can tell you"
+	cont "how to win!"
 
 	para "Let me take you"
 	line "to the top!"

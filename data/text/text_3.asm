@@ -267,7 +267,7 @@ _ConvertedTypeText::
 	prompt
 
 _StatusChangesEliminatedText::
-	text "All STATUS changes"
+	text "All status changes"
 	line "are eliminated!"
 	prompt
 
