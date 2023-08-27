@@ -345,7 +345,7 @@ _CinnabarQuizQuestionsText1::
 _CinnabarQuizQuestionsText2::
 	text "There are 9"
 	line "certified #MON"
-	cont "LEAGUE BADGEs?"
+	cont "LEAGUE badges?"
 	done
 
 _CinnabarQuizQuestionsText3::
@@ -603,10 +603,10 @@ _KabutopsFossilText::
 	done
 
 _LinkCableHelpText1::
-	text "TRAINER TIPS"
+	text "#MON Tips!"
 
 	para "Using a Game Link"
-	line "Cable"
+	line "Cable!"
 	prompt
 
 _LinkCableHelpText2::
@@ -639,7 +639,7 @@ _LinkCableInfoText3::
 _ViridianSchoolBlackboardText1::
 	text "The blackboard"
 	line "describes #MON"
-	cont "STATUS changes"
+	cont "status changes"
 	cont "during battles."
 	prompt
 
