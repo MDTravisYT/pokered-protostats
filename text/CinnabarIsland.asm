@@ -19,8 +19,8 @@ _CinnabarIslandGamblerText::
 
 _CinnabarIslandSignText::
 	text "CINNABAR ISLAND"
-	line "The Fiery Town of"
-	cont "Burning Desire"
+	line "The fiery town of"
+	cont "burning desire"
 	done
 
 _CinnabarIslandPokemonLabSignText::

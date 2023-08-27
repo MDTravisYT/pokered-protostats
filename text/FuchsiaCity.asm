@@ -34,7 +34,7 @@ _FuchsiaCityPokemonText::
 _FuchsiaCitySignText::
 	text "FUCHSIA CITY"
 	line "Behold! It's"
-	cont "Passion Pink!"
+	cont "passion pink!"
 	done
 
 _FuchsiaCitySafariGameSignText::

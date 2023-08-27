@@ -140,8 +140,8 @@ _ViridianCityOldManYouNeedToWeakenTheTargetText::
 
 _ViridianCitySignText::
 	text "VIRIDIAN CITY "
-	line "The Eternally"
-	cont "Green Paradise"
+	line "The eternally"
+	cont "green paradise"
 	done
 
 _ViridianCityTrainerTips1Text::
@@ -162,7 +162,7 @@ _ViridianCityTrainerTips2Text::
 	para "The battle moves"
 	line "of #MON are"
 	cont "limited by their"
-	cont "POWER POINTs, PP."
+	cont "POWER POINTS, PP."
 
 	para "To replenish PP,"
 	line "rest your tired"

@@ -40,7 +40,7 @@ _PewterCitySuperNerd1YouHaveToGoText::
 _PewterCitySuperNerd1ItsRightHereText::
 	text "It's right here!"
 	line "You have to pay"
-	cont "to get in, but"
+	cont "to get in but"
 	cont "it's worth it!"
 	cont "See you around!"
 	done
@@ -112,6 +112,6 @@ _PewterCityGymSignText::
 
 _PewterCitySignText::
 	text "PEWTER CITY"
-	line "A Stone Gray"
-	cont "City"
+	line "A stone gray"
+	cont "city!"
 	done

@@ -187,7 +187,7 @@ _CeruleanCityCooltrainerF2Text::
 	line "red BICYCLE!"
 
 	para "I'll keep it at"
-	line "home, so it won't"
+	line "home so it won't"
 	cont "get dirty!"
 	done
 
@@ -205,9 +205,8 @@ _CeruleanCitySuperNerd3Text::
 
 _CeruleanCitySignText::
 	text "CERULEAN CITY"
-	line "A Mysterious,"
-	cont "Blue Aura"
-	cont "Surrounds It"
+	line "A mysterious blue"
+	cont "aura surrounds it"
 	done
 
 _CeruleanCityTrainerTipsText::

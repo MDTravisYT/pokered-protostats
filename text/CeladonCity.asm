@@ -2,7 +2,7 @@ _CeladonCityLittleGirlText::
 	text "I got my KOFFING"
 	line "in CINNABAR!"
 
-	para "It's nice, but it"
+	para "It's nice but it"
 	line "breathes poison"
 	cont "when it's angry!"
 	done
@@ -104,8 +104,8 @@ _CeladonCityTrainerTips1Text::
 
 _CeladonCitySignText::
 	text "CELADON CITY"
-	line "The City of"
-	cont "Rainbow Dreams"
+	line "The city of"
+	cont "rainbow dreams"
 	done
 
 _CeladonCityGymSignText::

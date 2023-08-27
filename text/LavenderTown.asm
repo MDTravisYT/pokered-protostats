@@ -1,6 +1,6 @@
 _LavenderTownLittleGirlDoYouBelieveInGhostsText::
 	text "Do you believe in"
-	line "GHOSTs?"
+	line "ghosts?"
 	done
 
 _LavenderTownLittleGirlSoThereAreBelieversText::
@@ -28,7 +28,7 @@ _LavenderTownCooltrainerMText::
 	done
 
 _LavenderTownSuperNerdText::
-	text "GHOSTs appeared"
+	text "Ghosts appeared"
 	line "in #MON TOWER."
 
 	para "I think they're"
@@ -39,8 +39,8 @@ _LavenderTownSuperNerdText::
 
 _LavenderTownSignText::
 	text "LAVENDER TOWN"
-	line "The Noble Purple"
-	cont "Town"
+	line "The noble purple"
+	cont "town"
 	done
 
 _LavenderTownSilphScopeSignText::

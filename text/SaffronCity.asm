@@ -92,8 +92,8 @@ _SaffronCityRocket9Text::
 
 _SaffronCitySignText::
 	text "SAFFRON CITY"
-	line "Shining, Golden"
-	cont "Land of Commerce"
+	line "Shining, golden"
+	cont "land of commerce"
 	done
 
 _SaffronCityFightingDojoSignText::
@@ -117,7 +117,7 @@ _SaffronCityTrainerTips1Text::
 	cont "sleep and burns."
 
 	para "It costs a bit"
-	line "more, but it's"
+	line "more but it's"
 	cont "more convenient."
 	done
 

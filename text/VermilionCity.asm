@@ -14,7 +14,7 @@ _VermilionCityGambler1DidYouSeeText::
 	done
 
 _VermilionCityGambler1SSAnneDepartedText::
-	text "So, S.S.ANNE has"
+	text "So S.S.ANNE has"
 	line "departed!"
 
 	para "She'll be back in"
@@ -89,8 +89,8 @@ _VermilionCitySailor2Text::
 
 _VermilionCitySignText::
 	text "VERMILION CITY"
-	line "The Port of"
-	cont "Exquisite Sunsets"
+	line "The port of"
+	cont "exquisite sunsets"
 	done
 
 _VermilionCityNoticeSignText::
