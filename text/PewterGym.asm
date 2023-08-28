@@ -9,7 +9,7 @@ _PewterGymBrockPreBattleText::
 
 	para "That's why my"
 	line "#MON are all"
-	cont "the rock-type!"
+	cont "the rock type!"
 
 	para "Do you still want"
 	line "to challenge me?"

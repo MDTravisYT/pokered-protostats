@@ -229,7 +229,7 @@ _ViridianGymGuidePreBattleText::
 
 	para "I heard that the"
 	line "trainers here"
-	cont "like ground-type"
+	cont "like ground type"
 	cont "#MON!"
 	done
 

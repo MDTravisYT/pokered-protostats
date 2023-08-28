@@ -10,7 +10,7 @@ _DexCompletionText::
 	text " #MON owned"
 
 	para "PROF.OAK's"
-	line "Rating:"
+	line "rating:"
 	prompt
 
 _DexRatingText_Own0To9::
