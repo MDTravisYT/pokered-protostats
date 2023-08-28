@@ -10,7 +10,7 @@ _Route18CooltrainerM1EndBattleText::
 
 _Route18CooltrainerM1AfterBattleText::
 	text "I wish I had a"
-	line "BIKE!"
+	line "bike!"
 	done
 
 _Route18CooltrainerM2BattleText::

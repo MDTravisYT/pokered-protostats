@@ -14,7 +14,7 @@ _Route16Biker1AfterBattleText::
 	done
 
 _Route16Biker2BattleText::
-	text "Nice BIKE!"
+	text "Nice bike!"
 	line "Hand it over!"
 	done
 
@@ -25,7 +25,7 @@ _Route16Biker2EndBattleText::
 
 _Route16Biker2AfterBattleText::
 	text "Forget it, who"
-	line "needs your BIKE!"
+	line "needs your bike!"
 	done
 
 _Route16Biker3BattleText::

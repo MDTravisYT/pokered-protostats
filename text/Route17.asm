@@ -119,7 +119,7 @@ _Route17Biker8AfterBattleText::
 	done
 
 _Route17Biker9BattleText::
-	text "Nice BIKE!"
+	text "Nice bike!"
 	line "How's it handle?"
 	done
 

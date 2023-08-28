@@ -15,8 +15,8 @@ _Route15CooltrainerF1AfterBattleText::
 	cont "any #MON you"
 	cont "get in a trade."
 
-	para "Only the Original"
-	line "Trainer can."
+	para "Only the ORIGINAL"
+	line "TRAINER can."
 	done
 
 _Route15CooltrainerF2BattleText::
