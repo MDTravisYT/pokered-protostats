@@ -13,7 +13,7 @@ _CeruleanGymMistyPreBattleText::
 
 	para "My policy is an"
 	line "all-out offensive"
-	cont "with water-type"
+	cont "with water type"
 	cont "#MON!"
 	done
 

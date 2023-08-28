@@ -6,7 +6,7 @@ _VermilionGymLTSurgePostBattleAdviceText::
 	line "sure powerful!"
 
 	para "But, it's useless"
-	line "against ground-"
+	line "against ground"
 	cont "type #MON!"
 	done
 
@@ -75,7 +75,7 @@ _VermilionGymGentlemanAfterBattleText::
 	done
 
 _VermilionGymSuperNerdBattleText::
-	text "I'm a lightweight,"
+	text "I'm a lightweight"
 	line "but I'm good with"
 	cont "electricity!"
 	done

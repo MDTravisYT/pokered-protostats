@@ -1,7 +1,7 @@
 _PokemonFanClubPikachuFanNormalText::
 	text "Won't you admire"
 	line "my PIKACHU's"
-	cont "adorable tail?"
+	cont "adorable tail!"
 	done
 
 _PokemonFanClubPikachuFanBetterText::

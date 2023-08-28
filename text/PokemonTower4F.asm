@@ -1,11 +1,11 @@
 _PokemonTower4FChanneler1BattleText::
-	text "GHOST! No!"
+	text "Ghost! No!"
 	line "Kwaaah!"
 	done
 
 _PokemonTower4FChanneler1EndBattleText::
 	text "Where"
-	line "is the GHOST?"
+	line "is the ghost?"
 	prompt
 
 _PokemonTower4FChanneler1AfterBattleText::
@@ -25,7 +25,7 @@ _PokemonTower4FChanneler2EndBattleText::
 _PokemonTower4FChanneler2AfterBattleText::
 	text "We can't crack"
 	line "the identity of"
-	cont "the GHOSTs."
+	cont "the ghosts."
 	done
 
 _PokemonTower4FChanneler3BattleText::

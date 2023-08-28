@@ -15,7 +15,7 @@ _LavenderCuboneHouseBrunetteGirlPoorCubonesMotherText::
 	done
 
 _LavenderCuboneHouseBrunetteGirlGhostIsGoneText::
-	text "The GHOST of"
+	text "The ghost of"
 	line "#MON TOWER is"
 	cont "gone!"
 

@@ -1,8 +1,8 @@
 _VermilionPokecenterFishingGuruText::
 	text "Even if they are"
 	line "the same level,"
-	cont "#MON can have"
-	cont "very different"
+	cont "#MON could"
+	cont "have different"
 	cont "abilities."
 
 	para "A #MON raised"

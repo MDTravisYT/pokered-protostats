@@ -49,7 +49,7 @@ _PokemonTower2FRivalHowsYourDexText::
 _PokemonTower2FChannelerText::
 	text "Even we could not"
 	line "identify the"
-	cont "wayward GHOSTs!"
+	cont "wayward ghosts!"
 
 	para "A SILPH SCOPE"
 	line "might be able to"

@@ -19,7 +19,7 @@ _NameRatersHouseNameRaterGiveItANiceNameText::
 	line "That is a decent"
 	cont "nickname!"
 
-	para "But, would you"
+	para "But would you"
 	line "like me to give"
 	cont "it a nicer name?"
 

@@ -7,7 +7,7 @@ _BikeShopClerkWelcomeText::
 	prompt
 
 _BikeShopClerkDoYouLikeItText::
-	text "It's a cool BIKE!"
+	text "It's a cool bike!"
 	line "Do you want it?"
 	done
 
@@ -50,7 +50,7 @@ _BikeShopBagFullText::
 	done
 
 _BikeShopMiddleAgedWomanText::
-	text "A plain city BIKE"
+	text "A plain city bike"
 	line "is good enough"
 	cont "for me!"
 
@@ -60,12 +60,12 @@ _BikeShopMiddleAgedWomanText::
 	done
 
 _BikeShopYoungsterTheseBikesAreExpensiveText::
-	text "These BIKEs are"
+	text "These bikes are"
 	line "cool, but they're"
 	cont "way expensive!"
 	done
 
 _BikeShopYoungsterCoolBikeText::
-	text "Wow. Your BIKE is"
+	text "Wow. Your bike is"
 	line "really cool!"
 	done

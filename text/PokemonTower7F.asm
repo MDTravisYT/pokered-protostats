@@ -2,7 +2,7 @@ _PokemonTower7FMrFujiRescueText::
 	text "MR.FUJI: Heh? You"
 	line "came to save me?"
 
-	para "Thank you. But, I"
+	para "Thank you. But I"
 	line "came here of my"
 	cont "own free will."
 
